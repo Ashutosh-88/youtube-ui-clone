@@ -1,7 +1,7 @@
 # Youtube UI Clone (WeTube)
 
-![Preview_WeTube](./src/assets/previewWetube1.png)
-![Preview_WeTube](./src/assets/previewWetube2.png)
+![Preview_WeTube](./src/assets/previewWeTube1.png)
+![Preview_WeTube](./src/assets/previewWeTube2.png)
 
 Simple Youtube UI Clone.
 
